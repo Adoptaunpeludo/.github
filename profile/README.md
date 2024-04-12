@@ -6,7 +6,7 @@
 ## Equipo 🙋‍♀️
 El proyecto ha sido desarrollado por el grupo {JP:2}, compuesto por alumnos del Bootcamp de Desarrollo Web Full Stack XV de Keepcoding:
 
-- Jose Alberto Delgado ([GitHub](https://github.com/JoseAlbDR) | [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/))
+- Jose Alberto Delgado ([GitHub](https://github.com/JoseAlbDR) | [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/) | [Web](https://www.jadero.dev/home))
 - Juan Manuel Acosta ([GitHub](https://github.com/jmacosta) | [LinkedIn](https://www.linkedin.com/in/juan-manuel-acosta-benitez/))
 - Pol Valle ([GitHub](https://github.com/Doplax) | [LinkedIn](https://www.linkedin.com/in/pol-valle-montes/))
 - Francisco Suárez ([GitHub](https://github.com/PaquitoGR) | [LinkedIn](https://www.linkedin.com/in/francisco-a-suarez/))
