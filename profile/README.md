@@ -1,9 +1,11 @@
 # Adoptaunpeludo.com 👋
 
 ## Descripción 👩‍💻 
+
  La web adoptaunpeludo.com crea un punto de encuentro donde protectoras y asociaciones puedan mostrar los animales que han rescatado de la calle para los que buscan una familia y las personas interesadas en adoptar o acoger una mascota puedan conocer sus características y ponerse en contacto con las protectoras.
 
 ## Equipo 🙋‍♀️
+
 El proyecto ha sido desarrollado por el grupo {JP:2}, compuesto por alumnos del Bootcamp de Desarrollo Web Full Stack XV de Keepcoding:
 
 - Jose Alberto Delgado ([GitHub](https://github.com/JoseAlbDR) | [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/) | [Web](https://www.jadero.dev/home))
@@ -34,10 +36,14 @@ El proyecto ha sido desarrollado por el grupo {JP:2}, compuesto por alumnos del 
 
 ## Tecnologías utilizadas
 
-- **Frontend:** JavaScript con React.js y NextUI para la interfaz de usuario.
+- **Frontend:** JavaScript con React.js, React Query, React Router y NextUI para la interfaz de usuario.
 - **Backend:** Node.js con Express.js, utilizando TypeScript para un desarrollo más robusto y mantenible.
-- **Base de datos:** PostgreSQL para almacenar datos relacionados con usuarios, animales y asociaciones.
-- **Mensajería y notificaciones:** Se utiliza WebSockets para la mensajería en tiempo real entre usuarios y asociaciones. Además, se emplea RabbitMQ como servicio de emails para notificaciones.
+- **Base de datos:**
+  - PostgreSQL para almacenar datos relacionados con usuarios, animales y asociaciones.
+  - Supabase como base de datos vectorial para el servicio de asistente.
+  - MongoDB como base de datos documental para almacenar el historial de chats del asistente y los logs de error.
+- **Mensajería y notificaciones:** Se utiliza un servidor de WebSockets para la mensajería en tiempo real entre usuarios y asociaciones y las notificaciones en tiempo real.
+- **Broker de mensajes:** Se utiliza RabbitMQ como broker de mensajes para la comunicacion entre los distintos servicios que conforman la aplicación.
 
 ## Links 
 - [Front End](https://github.com/Adoptaunpeludo/frontend) 
