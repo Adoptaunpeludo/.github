@@ -10,7 +10,7 @@ El proyecto ha sido desarrollado por el grupo {JP:2}, compuesto por alumnos del 
 
 - Jose Alberto Delgado ([GitHub](https://github.com/JoseAlbDR) | [LinkedIn](https://www.linkedin.com/in/jalbertodelgado/) | [Web](https://www.jadero.dev/home))
 - Juan Manuel Acosta ([GitHub](https://github.com/jmacosta) | [LinkedIn](https://www.linkedin.com/in/juan-manuel-acosta-benitez/))
-- Pol Valle ([GitHub](https://github.com/Doplax) | [LinkedIn](https://www.linkedin.com/in/pol-valle-montes/))
+- Pol Valle ([GitHub](https://github.com/Doplax) | [LinkedIn](https://www.linkedin.com/in/pol-valle-montes/) | [Web](https://doplax.dev/))
 - Francisco Suárez ([GitHub](https://github.com/PaquitoGR) | [LinkedIn](https://www.linkedin.com/in/francisco-a-suarez/))
 
 
